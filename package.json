@@ -1,0 +1,36 @@
+{
+  "name": "kanagawa-night",
+  "displayName": "Kanagawa Night",
+  "description": "Dark theme based on Kanagawa color palette",
+  "version": "1.0.0",
+  "publisher": "Avetis",
+  "author": {
+    "name": "AvetisDN",
+    "email": "avetisdn@gmail.com"
+  },
+  "icon": "icon/tokyo-gogh.png",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark theme",
+    "kanagawa",
+    "nvim",
+    "dark",
+    "syntax highlight"
+  ],
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanagawa Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanagawa-night.json"
+      }
+    ]
+  }
+}
