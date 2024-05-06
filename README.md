@@ -8,4 +8,4 @@ Dark theme based on Kanagawa color palette
 
 ### Kanagawa Night
 
-![Kanagawa Night](https://github.com/AvetisDN/kanagawa-night/blob/main/screenshots/1.png?raw=true)
+![Kanagawa Night](https://raw.githubusercontent.com/AvetisDN/kanagawa-night/main/screenshots/1.png)
