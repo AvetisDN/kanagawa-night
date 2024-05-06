@@ -1,4 +1,4 @@
-# Kanagawa Dark Vision
+# Kanagawa Night
 
 Dark theme based on Kanagawa color palette
 
@@ -6,6 +6,6 @@ Dark theme based on Kanagawa color palette
 
 ## Screenshot
 
-### Kanagawa Dark Vision
+### Kanagawa Night
 
-![Tokyo Night](https://i.imgur.com/ZMb4ysH.png)
+![Kanagawa Night](https://github.com/AvetisDN/kanagawa-night/blob/main/screenshots/1.png?raw=true)

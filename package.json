@@ -8,7 +8,7 @@
     "name": "AvetisDN",
     "email": "avetisdn@gmail.com"
   },
-  "icon": "icon/tokyo-gogh.png",
+  "icon": "icon/kanagawa.png",
   "keywords": [
     "theme",
     "color-theme",
@@ -24,6 +24,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvetisDN/kanagawa-night"
+  },
   "contributes": {
     "themes": [
       {
